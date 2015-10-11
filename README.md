@@ -12,7 +12,7 @@ Currently, it works with thunderbird so you need to click yourself to send email
 apt-get install python
 ```
 
-- Add right on christmas_random.py
+- Add executable permission on christmas_random.py
 ```bash
 chmod u+x christmas_random.py
 ```
