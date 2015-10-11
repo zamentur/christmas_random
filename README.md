@@ -17,10 +17,6 @@ apt-get install python
 chmod u+x christmas_random.py
 ```
 - Edit settings.py with name, email and excluded conf
-- Add right on christmas_random.py
-```bash
-chmod u+x christmas_random.py
-```
 - Run the program
 ```bash
 ./christmas_random.py
